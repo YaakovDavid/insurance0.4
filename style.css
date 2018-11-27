@@ -77,4 +77,8 @@ footer{
   margin-top: 20px;
   letter-spacing: 2px;
   word-spacing: 10px;
+  position: absolute;
+  top: 100%;
+  width: 1024px;
+  /* width: 100%; */
 }
